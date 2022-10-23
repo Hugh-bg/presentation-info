@@ -1,5 +1,5 @@
 ---
-title: "Presentation title"
+title: "What makes the best Chocolate bar?"
 subtitle: "Presentation subtitle (if any)"
 author: "CS Fan Club <br> Hugh, Innes, Kiera, Caitlyn, and Luca"
 institute: "University of Edinburgh"
@@ -21,6 +21,7 @@ library(tidyverse)
 library(palmerpenguins)
 library(knitr)
 library(xaringanthemer)
+library(tidytuesdayR)
 ```
 
 ```{r setup, include=FALSE}
