@@ -44,7 +44,7 @@ style_xaringan(
 
 class: center, middle
 
-## A statement of the overall goal / research question
+## Our goal is to analyse data from chocolate bar ratings to discover what characteristic features make the highest rated chocolate. We will look into cocoa percentage, ingredients, cocoa bean origin, company location, memorable characteristics, and overall rating.
 
 ---
 
