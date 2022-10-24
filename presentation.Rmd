@@ -1,6 +1,6 @@
 ---
-title: "What makes the best Chocolate bar?"
-subtitle: "Presentation subtitle (if any)"
+title: "What characteristics make the Best Chocolate bar?"
+subtitle: "an analysis of chocolate bar data"
 author: "CS Fan Club <br> Hugh, Innes, Kiera, Caitlyn, and Luca"
 institute: "University of Edinburgh"
 date: "`r Sys.Date()`"
