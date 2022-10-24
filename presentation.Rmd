@@ -38,7 +38,7 @@ chocolate <- tuesdata$chocolate
 
 ```{r include=FALSE}
 style_xaringan(
-  title_slide_background_image = "img/confetti.jpg"
+  title_slide_background_image = "img/chocolate.webp"
 )
 ```
 
