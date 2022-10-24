@@ -1,6 +1,6 @@
 ---
-title: "What characteristics make the Best Chocolate bar?"
-subtitle: "an analysis of chocolate bar data"
+title: "What characteristics make the Best Chocolate Bar?"
+subtitle: "An Analysis of Chocolate Bar Data"
 author: "CS Fan Club <br> Hugh, Innes, Kiera, Caitlyn, and Luca"
 institute: "University of Edinburgh"
 date: "`r Sys.Date()`"
@@ -50,7 +50,11 @@ class: center, middle
 
 class: inverse, center, middle
 
+<<<<<<< HEAD
 # Data analysis plan
+=======
+# Data analysis plan 
+>>>>>>> 41caabf931a328bc4098576fffaec74b24160ab7
 
 ---
 
