@@ -34,6 +34,7 @@ tuesdata <- tidytuesdayR::tt_load('2022-01-18')
 tuesdata <- tidytuesdayR::tt_load(2022, week = 3)
 
 chocolate <- tuesdata$chocolate
+chocolate <- filter(chocolate, review_date == "2021")
 ```
 
 ```{r include=FALSE}
